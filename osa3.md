@@ -301,7 +301,7 @@ Mutaatiotestauksen ongelmana on mutaatioiden suuri määrä ja ns. _ekvivalentit
 
 Ekvivalentti mutantti tarkoittaa sellaista koodiin tehtyä muutosta, joka ei kuitenkaan muuta ohjelman toiminnallisuutta. Eli tälläisen mutantin lisäämistä koodiin ei voi mikään testi havaita. Mutantin toteaminen ekvivalentiksi algoritmisesti on mahdotonta.
 
-Lisätietoa mutaatiotestauksesta esim. [wikipediassa](http://en.wikipedia.org/wiki/) ja [pit](http://pitest.org/)-työkalun sivulla.
+Lisätietoa mutaatiotestauksesta esim. [wikipediassa](https://en.wikipedia.org/wiki/Mutation_testing) ja [pit](http://pitest.org/)-työkalun sivulla.
  
 ## Integraatiotestaus
 
